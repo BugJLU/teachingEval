@@ -7,3 +7,5 @@ Script for JLU teaching evaluation.
 - 将 eval.js 中的代码复制到控制台中
 - 敲回车运行
 - 等待运行完毕，页面会弹窗提醒是否提交，按提示提交即可
+- 对每个老师重复如上操作
+- 你就完成了评教
